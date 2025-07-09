@@ -1,0 +1,73 @@
+body {
+ 
+    background-size: cover;
+    background-image: url(background.png);
+    margin-top: 4vh;
+    margin-left: 10vh;
+    margin-right: 10vh;    
+}
+
+.kata {
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 3vh;
+    margin-bottom: 1vh;
+    font-style: oblique;
+}
+
+.kalimat {
+    margin-top: 1vh;
+    display: flex;
+    justify-content: center;
+    color: azure;
+}
+
+.FIRST {
+    display: flex;
+    background: linear-gradient(200deg, white, rgb(245, 44, 178));
+    font-size: larger;
+    text-align: center;
+    -webkit-text-fill-color: white;
+    justify-content: center;
+    border-radius: 10vh;
+    font-style: oblique;
+    box-shadow: 0 4px 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.SECOND {
+    display: flex;
+    background: linear-gradient(200deg, white, rgb(245, 44, 178));
+    font-size: larger;
+    text-align: center;
+    -webkit-text-fill-color: white;
+    justify-content: center;
+    border-radius: 10vh;
+    font-style: oblique;
+    margin-top: 10vh;
+      box-shadow: 0 4px 15px;
+}
+
+b {
+    text-decoration: none;
+}
+
+.THIRD {
+   display: flex;
+    background: linear-gradient(200deg, white, rgb(245, 44, 178));
+    font-size: larger;
+    text-align: center;
+    -webkit-text-fill-color: white;
+    justify-content: center;
+    border-radius: 10vh;
+    font-style: oblique;
+    margin-top: 10vh;
+    box-shadow: 0 4px 15px black;
+}
+
+
+

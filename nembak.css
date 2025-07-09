@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+}
+.tulis {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
+.tombol {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 2vh;
+    
+}
+
+.gambar {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 10vh;
+}
+
+button {
+    font-size: 3vh;
+    border: none;
+    border-radius: 5vh;
+    padding: 1rem 2rem ;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1;
+}
+
+a {
+    text-decoration: none;
+    -webkit-text-fill-color: black;
+
+}
+
+button:active {
+    background-color: black;
+}
